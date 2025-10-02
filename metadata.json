@@ -1,0 +1,5 @@
+{
+  "name": "高校生向け授業動画検索",
+  "description": "高校生が特定の学習トピックに関する授業動画を簡単に見つけるための支援アプリです。YouTube、NHK高校講座、有名教育サイトから最適な動画をAIが推薦します。",
+  "requestFramePermissions": []
+}
